@@ -13,3 +13,6 @@ This project analyzes the 2017 Stack Overflow Developer Survey to explore popula
 ## Results
 - The most popular programming languages are Python, JavaScript, and Java.
 - The highest average salaries are in Switzerland, the United States, and Australia.
+
+## See Post from here :
+[Post in Medium](https://medium.com/@saadthelegend/insights-from-the-2017-stack-overflow-developer-survey-3e2a4793fb55)
