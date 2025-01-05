@@ -6,7 +6,7 @@ This project analyzes the 2017 Stack Overflow Developer Survey to explore popula
 
 ## See Post from here :
 (Exploring the 2017 Stack Overflow Survey: Top Languages and Developer Salaries.)
-[Post in Medium](https://medium.com/p/3e2a4793fb55)
+[Post in Medium](https://medium.com/@saadthelegend/exploring-the-2017-stack-overflow-survey-top-languages-and-developer-salaries-c5c843838d4f)
 
 ## Files
 - `survey_results_public.csv`: Main survey data.
