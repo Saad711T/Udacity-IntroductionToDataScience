@@ -1,10 +1,12 @@
 # Stack Overflow Developer Survey 2017 Analysis
+### (Exploring the 2017 Stack Overflow Survey: Top Languages and Developer Salaries.)
 
 ## Introduction
 This project analyzes the 2017 Stack Overflow Developer Survey to explore popular programming languages and average developer salaries by country.
 
 ## See Post from here :
-[Post in Medium](https://medium.com/@saadthelegend/insights-from-the-2017-stack-overflow-developer-survey-3e2a4793fb55)
+(Exploring the 2017 Stack Overflow Survey: Top Languages and Developer Salaries.)
+[Post in Medium](https://medium.com/p/3e2a4793fb55)
 
 ## Files
 - `survey_results_public.csv`: Main survey data.
